@@ -12,7 +12,7 @@
 - MySQL
 - Maven
 - EasyExcel
-- nginx
+- Nginx
 ### 前端：
 - Node.js
 - Vue.js
